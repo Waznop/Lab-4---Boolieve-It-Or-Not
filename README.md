@@ -1,9 +1,10 @@
-# Lab 3: Boolieve It Or Not
+# Lab 4: Boolieve It Or Not
 
 In this lab, you will learn how to:
 - use `bool` variables
 - use comparison operators
 - use if statements
+- use switch statements
 
 ## Question 1: odd.cpp
 
