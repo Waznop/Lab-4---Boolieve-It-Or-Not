@@ -106,7 +106,7 @@ Write the `calculator.cpp` program to do the following:
 A reminder on output format:
 * add: Print out "x + y = " followed by the value of x + y followed by a newline
 * subtract: Print out "x - y = " followed by the value of x - y followed by a newline
-* multiply: Print out "x * y = " followed by the value of x * y followed by a newline
+* multiply: Print out "x \* y = " followed by the value of x \* y followed by a newline
 * divide: Print out "x / y = " followed by the value of x / y followed by a newline
 * modulus: Print out "x % y = " followed by the value of x % y followed by a newline
 
